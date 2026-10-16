@@ -1,1 +1,1 @@
-# canary-public
+PUBLIC-CANARY-1
